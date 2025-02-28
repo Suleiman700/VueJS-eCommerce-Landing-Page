@@ -1,10 +1,6 @@
 # eCommerce Landing Page
 
-This template should help get you started developing with Vue 3 in Vite.
-
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+![screencapture-localhost-5173-about-2025-03-01-00_44_32](https://github.com/user-attachments/assets/ca6e0f93-7948-4c5f-aa6a-763e9a35c7ee)
 
 ## Customize configuration
 
